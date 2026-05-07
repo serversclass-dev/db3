@@ -1,0 +1,20 @@
+{
+  "mans": {
+    "username": "mans",
+    "password": "Mansour12",
+    "student_type": "علمي",
+    "telegram_user_id": "5046040015",
+    "telegram_username": "mansshref",
+    "telegram_first_name": "Mansour",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_0.jpg",
+    "session_id": "c1dd2854-f45a-4df6-81f4-23ea9c439d41",
+    "created_at": "2026-05-07T08:35:40.419178",
+    "verified": true,
+    "last_login": "2026-05-07T19:59:15.155440",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 3
+  }
+}
