@@ -7,10 +7,10 @@
     "telegram_username": "mansshref",
     "telegram_first_name": "Mansour",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_0.jpg",
-    "session_id": "d17ad912-a2e1-4f95-a38f-56fa45a5f310",
+    "session_id": "b7c3a10b-b4ee-4dca-bf39-6828867bfb67",
     "created_at": "2026-05-07T08:35:40.419178",
     "verified": true,
-    "last_login": "2026-05-11T18:19:35.700654",
+    "last_login": "2026-05-11T21:34:14.751785",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
@@ -24,6 +24,24 @@
       "statistics",
       "math",
       "english"
+    ],
+    "server_num": 3
+  },
+  "esraa": {
+    "username": "esraa",
+    "password": "Esraa2008",
+    "student_type": "علمي",
+    "telegram_user_id": "5969410490",
+    "telegram_username": null,
+    "telegram_first_name": "A.",
+    "profile_photo_url": null,
+    "session_id": "d8dd650a-04d7-46e8-a1ba-e323f08ab022",
+    "created_at": "2026-05-11T19:34:20.774817",
+    "verified": true,
+    "last_login": "2026-05-11T22:30:50.909710",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
     ],
     "server_num": 3
   }
